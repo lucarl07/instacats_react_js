@@ -1,5 +1,5 @@
 import '../css/Header.css'
-import instacatsIcon from '../assets/instacats-icon.png'
+import instacatsIcon from '../assets/icons/instacats-icon.png'
 
 const Header = () => {
     return (
