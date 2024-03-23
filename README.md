@@ -1,8 +1,11 @@
-# React + Vite
+# InstaCats
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## O que é esse projeto?
 
-Currently, two official plugins are available:
+PT-BR: Reconstrução do site InstaCats, utilizando o framework para Javascript React através do Vite.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+EN: Rebuild of the website InstaCats using, through Vite, the framework for Javascript React.
+
+Foi utilizado o plugin do Vite abaixo:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md)
