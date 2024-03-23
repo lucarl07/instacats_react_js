@@ -1,0 +1,23 @@
+/* Estabelecendo variáveis globais: */
+:root {
+    --orange: #EB6440;
+    --azure: #EFF5F5;
+    --black: #000000;
+}
+
+@font-face {
+    font-family: Nunito;
+    src: url(../fonts/Nunito/Nunito-VariableFont_wght.ttf);
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito', sans-serif;
+}
+
+/* Corpo da aplicação: */
+body {
+    background: var(--azure);
+}
