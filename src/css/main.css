@@ -3,6 +3,7 @@
     --orange: #EB6440;
     --azure: #EFF5F5;
     --black: #000000;
+    --shadow: hsla(0, 0%, 0%, 0.25);
 }
 
 @font-face {

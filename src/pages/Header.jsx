@@ -3,10 +3,10 @@ import instacatsIcon from '../assets/instacats-icon.png'
 
 const Header = () => {
     return (
-        <header>
+        <header className='header'>
             <nav className='navigation'>
                 <img src={instacatsIcon} alt="Logotipo do site" />
-                
+
                 <ul className='nav-list'>
                     <li className='nav-item'>
                         <a href="#">Login</a>
